@@ -34,7 +34,7 @@ Coulo@MSI MINGW64 ~/PycharmProjects/bio-7003 (master)
 $ git remote add origin https://github.com/coulombevin/BVG-7030.git
 
 Coulo@MSI MINGW64 ~/PycharmProjects/bio-7003 (master)
-$ git push -u origin master
+$ git push -u origin Python_Basic
 Enumerating objects: 3, done.
 Counting objects: 100% (3/3), done.
 Delta compression using up to 12 threads
@@ -43,8 +43,8 @@ Writing objects: 100% (3/3), 2.88 KiB | 2.88 MiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 remote:
 remote: Create a pull request for 'master' on GitHub by visiting:
-remote:      https://github.com/coulombevin/BVG-7030/pull/new/master
+remote:      https://github.com/coulombevin/BVG-7030/pull/new/Python_Basic
 remote:
 To https://github.com/coulombevin/BVG-7030.git
- * [new branch]      master -> master
-branch 'master' set up to track 'origin/master'.
+ * [new branch]      Python_Basic -> Python_Basic
+branch 'master' set up to track 'origin/Python_Basic'.
