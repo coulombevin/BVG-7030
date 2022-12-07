@@ -1,3 +1,5 @@
+#!/bin/bash
+
 module add StdEnv/2020 bwa/0.7.17
 
 #set variable for trimmed gbs and ref genome
