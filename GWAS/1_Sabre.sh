@@ -1,3 +1,5 @@
+#!/bin/bash
+
 module add StdEnv/2020 intel/2020.1.217 sabre/1.00
 
 #set variable
