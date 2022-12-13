@@ -29,3 +29,12 @@ This bash file convert SAM files to BAM files then sort and index those bam file
 
 #### 5_samt_var.sh
 This bash file make a variant calling and output a VCF file.
+
+## GWAS/R_Analysis
+That folder contains command used on R Studio to produce analysis and graphs.
+
+#### GAPIT.R
+That script use the GAPIT package to produce heat map to show proximity between cultivars.
+(GAPIT) Wang J., Zhang Z., GAPIT Version 3: Boosting Power and Accuracy for Genomic Association and Prediction, Genomics, Proteomics & Bioinformatics (2021), doi: https://doi.org/10.1016/j.gpb.2021.08.005.
+
+
