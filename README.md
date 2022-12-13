@@ -12,7 +12,7 @@ This document contain some basic codes frequently used in python scripts.
 This document show some applications of the package biopython.
 
 
-## GWAS
+## GWAS/Fastq2vcf
 This folder contains scripts needed to past from fastq files to vcf on NARVAL (COMPUTE CANADA).
 
 #### 1_Sabre.sh
