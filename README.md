@@ -37,4 +37,5 @@ That folder contains command used on R Studio to produce analysis and graphs.
 That script use the GAPIT package to produce heat map to show proximity between cultivars.
 (GAPIT) Wang J., Zhang Z., GAPIT Version 3: Boosting Power and Accuracy for Genomic Association and Prediction, Genomics, Proteomics & Bioinformatics (2021), doi: https://doi.org/10.1016/j.gpb.2021.08.005.
 
-
+#### mvp.R
+That script create circular Manhattan plot, Manhattan plot, QQ plot and SNP density plot.
